@@ -17,10 +17,12 @@
 ## 
 
 <div>
-  <a href="https://www.linkedin.com/in/pedro-henrique-de-souza-araujo/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-henrique-de-souza-araujo/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" width="130" >
   </a>
 </div>
+
+![Snake animation](https://github.com/Pedroid1/Pedroid1/blob/output/github-contribution-grid-snake.svg)
   
   
 

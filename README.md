@@ -2,8 +2,8 @@
 
 <div >
   <a href="https://github.com/Pedroid1" />
-  <img height="30%" src="https://github-readme-stats.vercel.app/api?username=Pedroid1&theme=radical&count_private=true&show_icons=true" />
-  <img height="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroid1&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroid1&theme=radical&count_private=true&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroid1&theme=radical" />
   </div>
   
 

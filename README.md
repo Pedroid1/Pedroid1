@@ -3,7 +3,6 @@ Meu nome é Pedro Henrique, sou estudante de Análise e Desenvolvimento de Siste
 
 <div>
   <a href="https://github.com/Pedroid1" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Pedroid1&theme=radical&count_private=true&show_icons=true" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroid1&theme=radical" />
 </div>
 

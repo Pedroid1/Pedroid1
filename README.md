@@ -1,5 +1,5 @@
 ## Olá, mundo 👋🏻
-Meu nome é Pedro Henrique, sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por desenvolvimento mobile.
+Meu nome é Pedro Henrique, trabalho como Desenvolvedor Android desde 2021, sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por desenvolvimento mobile.
 
 <div>
   <a href="https://github.com/Pedroid1" />

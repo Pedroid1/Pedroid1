@@ -1,7 +1,20 @@
 # 💫 Sobre mim:
 
 ## Olá, mundo 👋🏻
-Meu nome é Pedro Henrique, trabalho como Desenvolvedor Android desde 2021, sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por desenvolvimento mobile.
+### 🚀 Desenvolvedor Android | Back-end com Spring Boot
+Com 2 anos de experiência, contribuí para projetos notáveis, como o Banco Next, demonstrando habilidades em Kotlin e Java. Especializado em arquitetura MVVM com Clean Architecture, Injeção de Dependência e Bibliotecas Jetpack, busco a excelência no desenvolvimento de soluções móveis.
+
+### ⚙️ Tecnologias e Ferramentas:
+Desenvolvimento Android: Kotlin, Java, MVVM, Clean Architecture, Jetpack<br>
+Conexão com serviços remotos: Retrofit, Firebase<br>
+UI/UX: Criação de telas em XML<br>
+Controle de versão: Git
+
+### 🔍 Explorando o Backend:
+Recentemente, expandi meu horizonte para o back-end, mergulhando no desenvolvimento de micro serviços com Spring Boot. Esta experiência ampliou minha visão, fortalecendo minha capacidade de solucionar problemas e integrar soluções completas.
+
+### 🔧 Apaixonado por Desafios:
+Movido por uma paixão por desafios de programação, estou sempre em busca de aprender mais e superar barreiras. Além de minha contribuição em projetos consolidados, também desenvolvo aplicativos próprios, consolidando uma visão ampla e profunda no mundo do desenvolvimento de software.
 
 # 📧 Contato:
 

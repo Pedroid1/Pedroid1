@@ -2,12 +2,14 @@
 
 ## Olá, mundo 👋🏻
 ### 🚀 Desenvolvedor Android | Back-end com Spring Boot
-Com 2 anos de experiência, contribuí para projetos notáveis, como o Banco Next, demonstrando habilidades em Kotlin e Java. Especializado em arquitetura MVVM com Clean Architecture, Injeção de Dependência e Bibliotecas Jetpack, busco a excelência no desenvolvimento de soluções móveis.
+Desenvolvedor com pouco mais de dois anos de experiência, já tive oportunidade de atuar em grandes projetos como no app do banco Next, que me possibilitou aprender e aplicar conhecimentos em um projeto de larga escala. Domínio sólido em Kotlin e Java, vivência com arquitetura MVVM com Clean Architecture, modularização, injeção de dependência, bibliotecas Jetpack, busca de dados remotos e versionamento com Git.
+
+Trabalhando sempre com qualidade com foco na escalabilidade do produto, seguindo os princípios do SOLID e Clean Code. Além disso, tenho experiência em desenvolver aplicativos próprios, o que me dá uma visão ampla e uma grande capacidade de resolução de problemas. Apaixonado por desafios e sempre em busca de aprender mais.
 
 ### ⚙️ Tecnologias e Ferramentas:
 Desenvolvimento Android: Kotlin, Java, MVVM, Clean Architecture, Jetpack<br>
 Conexão com serviços remotos: Retrofit, Firebase<br>
-UI/UX: Criação de telas em XML<br>
+UI/UX: Criação de telas em XML e Jetpack Compose<br>
 Controle de versão: Git
 
 ### 🔍 Explorando o Backend:

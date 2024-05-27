@@ -4,16 +4,13 @@
 ### 🚀 Desenvolvedor Android | Back-end com Spring Boot
 Desenvolvedor com pouco mais de dois anos de experiência, já tive oportunidade de atuar em grandes projetos como no app do banco Next, que me possibilitou aprender e aplicar conhecimentos em um projeto de larga escala. Domínio sólido em Kotlin e Java, vivência com arquitetura MVVM com Clean Architecture, modularização, injeção de dependência, bibliotecas Jetpack, busca de dados remotos e versionamento com Git.
 
-Trabalhando sempre com qualidade com foco na escalabilidade do produto, seguindo os princípios do SOLID e Clean Code. Além disso, tenho experiência em desenvolver aplicativos próprios, o que me dá uma visão ampla e uma grande capacidade de resolução de problemas. Apaixonado por desafios e sempre em busca de aprender mais.
+Atualmente, expandindo minha atuação para o desenvolvimento de micro serviços com Spring Boot e manutenção em aplicações JSF, complementando minha experiência em Android. Trabalhando sempre com qualidade com foco na escalabilidade do produto, seguindo os princípios do SOLID e Clean Code.
 
 ### ⚙️ Tecnologias e Ferramentas:
 Desenvolvimento Android: Kotlin, Java, MVVM, Clean Architecture, Jetpack<br>
 Conexão com serviços remotos: Retrofit, Firebase<br>
 UI/UX: Criação de telas em XML e Jetpack Compose<br>
 Controle de versão: Git
-
-### 🔍 Explorando o Backend:
-Recentemente, expandi meu horizonte para o back-end, mergulhando no desenvolvimento de micro serviços com Spring Boot. Esta experiência ampliou minha visão, fortalecendo minha capacidade de solucionar problemas e integrar soluções completas.
 
 ### 🔧 Apaixonado por Desafios:
 Movido por uma paixão por desafios de programação, estou sempre em busca de aprender mais e superar barreiras. Além de minha contribuição em projetos consolidados, também desenvolvo aplicativos próprios, consolidando uma visão ampla e profunda no mundo do desenvolvimento de software.

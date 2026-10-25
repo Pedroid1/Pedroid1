@@ -1,60 +1,99 @@
-# 💫 Sobre mim
+<div align="center">
 
-## 👋 Olá! Sou Pedro, Engenheiro de Software
-Atuo com foco em desenvolvimento **Android**, criando soluções escaláveis e eficientes que agregam valor ao usuário final e à arquitetura dos sistemas. Sou movido por desafios técnicos e pela construção de aplicações robustas, com atenção especial à qualidade do código e à performance.
+# 👋 Olá, eu sou o Pedro Henrique!
 
----
+**Engenheiro de Software | Android Developer**  
+*Kotlin • Clean Architecture • MVI • Modularização*
 
-## 🚀 Minha Jornada
+Desenvolvendo e evoluindo aplicações Android com foco em **arquitetura, qualidade de código, performance e escalabilidade**.
 
-Atualmente, trabalho como desenvolvedor Android na **Foursys**, contribuindo diretamente com o app do **Banco Next**. Nesse projeto de grande escala, atuo com **Java** e **Kotlin**, aplicando conceitos avançados de **modularização**, integração com **REST APIs** e uso de **Firebase**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-de-souza-ar/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:pedro.steam2016@hotmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5574999637391)
 
-Antes disso, desenvolvi soluções back-end com **Spring Boot** e banco **DB2**, voltadas para ambientes em **nuvem Azure**, dentro de uma rotina de **entregas contínuas** com metodologias ágeis (Scrum).
-
----
-
-## 📱 Foco em Desenvolvimento Android
-
-Meu maior interesse está na construção de apps Android robustos e modernos. Tenho experiência sólida com:
-
-- **Kotlin** e **Java**
-- **Arquitetura MVVM + Clean Architecture**
-- **Modularização**
-- **Injeção de dependência (Hilt/Dagger)**
-- **Firebase (Auth, Firestore, Functions, Push, Crashlytics)**
-
-Sou entusiasta de boas práticas como **SOLID**, **Clean Code** e **Design Patterns**, e estou sempre aprimorando minha atuação técnica e arquitetural.
+</div>
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
+## 👨‍💻 Sobre mim
 
-**Android / Mobile**  
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+Sou engenheiro de software especializado em **desenvolvimento Android nativo**, com experiência na construção, manutenção e modernização de aplicações. Gosto de resolver desafios técnicos por meio de soluções simples, bem estruturadas e sustentáveis a longo prazo.
 
-**Back-end & Integrações**  
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+Minha atuação combina **desenvolvimento de funcionalidades**, **refatoração de código legado**, **evolução arquitetural** e **boas práticas de engenharia de software**, sempre considerando o impacto na experiência do usuário e na manutenção do produto.
 
-**Cloud / Firebase**  
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+## 💼 Atuação atual | Luiza Labs
 
-**Ferramentas e práticas**  
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge&logo=solid&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clean_Code-4B8BBE?style=for-the-badge&logo=codefactor&logoColor=white"/>
+Atualmente, atuo como **Desenvolvedor Android Pleno no Luiza Labs (Magazine Luiza)**, contribuindo para a evolução de uma aplicação Android utilizada por **agências próprias e parceiras da Magalu** em suas operações logísticas.
 
----
+A solução apoia processos relacionados a **pedidos, transporte, recebimento e devoluções**. Nesse contexto, trabalho com:
 
-## 📧 Contato
+- Desenvolvimento e manutenção de funcionalidades;
+- Modernização de aplicações legadas e refatorações estruturais;
+- Evolução da arquitetura e modularização do código;
+- Qualidade, testes, observabilidade e melhoria contínua da aplicação.
 
-<a href="mailto:pedro.steam2016@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/pedro-henrique-de-souza-ar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://wa.me/+5574999637391"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+## 🚀 Minha trajetória
+
+- **Foursys | Banco Next:** desenvolvimento de funcionalidades Android com **Java e Kotlin**, integração com **APIs REST**, modularização e utilização de serviços **Firebase**.
+- **Desenvolvimento backend:** experiência com **Java, Spring Boot e DB2**, incluindo integrações entre sistemas e atuação em ambientes ágeis com entregas contínuas.
+
+Essa trajetória me proporciona uma visão mais ampla do desenvolvimento de software, da experiência no aplicativo à integração com serviços e APIs.
+
+## 🧱 Especialidades
+
+- **Android:** Kotlin, Java, Coroutines, Flow e bibliotecas Android Jetpack;
+- **Arquitetura:** Clean Architecture, MVI, MVVM, SOLID e modularização;
+- **Integrações:** APIs REST, Retrofit, OkHttp e Firebase;
+- **Qualidade e entrega:** testes automatizados, CI/CD, observabilidade e manutenção de código legado.
+
+## 🛠️ Tecnologias e ferramentas
+
+**📱 Android & Mobile**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+**🏗️ Arquitetura & Bibliotecas**
+
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-263238?style=for-the-badge)
+![MVI](https://img.shields.io/badge/MVI-555555?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-555555?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-F29E2E?style=for-the-badge)
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge)
+
+**🌐 Backend & Cloud**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge)
+
+**🧪 Qualidade & Entrega**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Testing](https://img.shields.io/badge/Testes_Automatizados-228B22?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-303030?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pedroid1&theme=default&hide_border=false)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pedroid1&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+📫 **Vamos nos conectar?** [LinkedIn](https://www.linkedin.com/in/pedro-henrique-de-souza-ar/) · [Email](mailto:pedro.steam2016@hotmail.com) · [WhatsApp](https://wa.me/5574999637391)
+
+</div>
